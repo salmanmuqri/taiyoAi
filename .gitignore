@@ -38,10 +38,6 @@ env/
 *.log
 logs/
 
-# Output
-output/
-*.csv
-*.json
 
 # Checkpoint files
 scraping_checkpoint.json

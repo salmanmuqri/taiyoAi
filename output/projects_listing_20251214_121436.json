@@ -1,0 +1,608 @@
+{
+  "metadata": {
+    "scraped_at": "2025-12-14T12:14:53.153201",
+    "total_projects": 60
+  },
+  "projects": [
+    {
+      "project_id": "59364-001",
+      "title": "Green Investment Platform Project",
+      "url": "https://www.adb.org/projects/59364-001/main",
+      "country": "Thailand",
+      "sector": "Finance",
+      "status": "Proposed",
+      "approval_year": "2029",
+      "scraped_at": "2025-12-14T12:14:40.918987"
+    },
+    {
+      "project_id": "53378-001",
+      "title": "Strengthening Agricultural Tertiary Education Project",
+      "url": "https://www.adb.org/projects/53378-001/main",
+      "country": "Bangladesh",
+      "sector": "Education",
+      "status": "Proposed",
+      "approval_year": "2029",
+      "scraped_at": "2025-12-14T12:14:40.919159"
+    },
+    {
+      "project_id": "55361-001",
+      "title": "Imphal Ring Road Project",
+      "url": "https://www.adb.org/projects/55361-001/main",
+      "country": "India",
+      "sector": "Transport",
+      "status": "Proposed",
+      "approval_year": "2028",
+      "scraped_at": "2025-12-14T12:14:40.919269"
+    },
+    {
+      "project_id": "59427-001",
+      "title": "Tourism Infrastructure for Inclusive and Resilient Growth Project",
+      "url": "https://www.adb.org/projects/59427-001/main",
+      "country": "Cambodia",
+      "sector": "Water and other urban infrastructure and services",
+      "status": "Proposed",
+      "approval_year": "2028",
+      "scraped_at": "2025-12-14T12:14:40.919358"
+    },
+    {
+      "project_id": "59282-001",
+      "title": "Kathmandu Valley Ecological Urban Renewal Project-FMRF",
+      "url": "https://www.adb.org/projects/59282-001/main",
+      "country": "Nepal",
+      "sector": "Water and other urban infrastructure and services",
+      "status": "Proposed",
+      "approval_year": "2027",
+      "scraped_at": "2025-12-14T12:14:40.919445"
+    },
+    {
+      "project_id": "59440-001",
+      "title": "Kobuleti Bypass Project (Lots 1 and 2)",
+      "url": "https://www.adb.org/projects/59440-001/main",
+      "country": "Georgia",
+      "sector": "Transport",
+      "status": "Proposed",
+      "approval_year": "2027",
+      "scraped_at": "2025-12-14T12:14:40.919536"
+    },
+    {
+      "project_id": "59082-001",
+      "title": "Green Energy Corridor Sulawesi Project (South)",
+      "url": "https://www.adb.org/projects/59082-001/main",
+      "country": "Indonesia",
+      "sector": "Energy",
+      "status": "Proposed",
+      "approval_year": "2027",
+      "scraped_at": "2025-12-14T12:14:40.919626"
+    },
+    {
+      "project_id": "58405-001",
+      "title": "Resilient and Inclusive Road Sector Improvement Project II",
+      "url": "https://www.adb.org/projects/58405-001/main",
+      "country": "Armenia",
+      "sector": "Transport",
+      "status": "Proposed",
+      "approval_year": "2027",
+      "scraped_at": "2025-12-14T12:14:40.919811"
+    },
+    {
+      "project_id": "58270-001",
+      "title": "Dushanbe EcoMobility Project",
+      "url": "https://www.adb.org/projects/58270-001/main",
+      "country": "Tajikistan",
+      "sector": "Transport",
+      "status": "Proposed",
+      "approval_year": "2027",
+      "scraped_at": "2025-12-14T12:14:40.919928"
+    },
+    {
+      "project_id": "59446-001",
+      "title": "Azerbaijan Railways Electrification, Signaling and Telecommunication Project (Baku–Boyuk Kesik)",
+      "url": "https://www.adb.org/projects/59446-001/main",
+      "country": "Azerbaijan",
+      "sector": "Transport",
+      "status": "Proposed",
+      "approval_year": "2027",
+      "scraped_at": "2025-12-14T12:14:40.920030"
+    },
+    {
+      "project_id": "58393-001",
+      "title": "Strengthening Coastal Protection and Food Security for Rural Climate Resilience",
+      "url": "https://www.adb.org/projects/58393-001/main",
+      "country": "Marshall Islands",
+      "sector": "Agriculture, natural resources and rural development",
+      "status": "Proposed",
+      "approval_year": "2027",
+      "scraped_at": "2025-12-14T12:14:40.920124"
+    },
+    {
+      "project_id": "59301-001",
+      "title": "Enhancing Green Fiscal Consolidation Program, Subprogram 1",
+      "url": "https://www.adb.org/projects/59301-001/main",
+      "country": "Bhutan",
+      "sector": "Public sector management",
+      "status": "Proposed",
+      "approval_year": "2027",
+      "scraped_at": "2025-12-14T12:14:40.920216"
+    },
+    {
+      "project_id": "59067-001",
+      "title": "Supporting Sustainable Universal Pension Schemes Project",
+      "url": "https://www.adb.org/projects/59067-001/main",
+      "country": "Bangladesh",
+      "sector": "Public sector management",
+      "status": "Proposed",
+      "approval_year": "2027",
+      "scraped_at": "2025-12-14T12:14:40.920353"
+    },
+    {
+      "project_id": "58005-001",
+      "title": "Third City Region Development Project",
+      "url": "https://www.adb.org/projects/58005-001/main",
+      "country": "Bangladesh",
+      "sector": "Water and other urban infrastructure and services",
+      "status": "Proposed",
+      "approval_year": "2027",
+      "scraped_at": "2025-12-14T12:14:40.920563"
+    },
+    {
+      "project_id": "51360-001",
+      "title": "TransTurkmenistan Railway Modernization Project (Phase 1, Ashgabat-Dushak)",
+      "url": "https://www.adb.org/projects/51360-001/main",
+      "country": "Turkmenistan",
+      "sector": "Transport",
+      "status": "Proposed",
+      "approval_year": "2027",
+      "scraped_at": "2025-12-14T12:14:40.920700"
+    },
+    {
+      "project_id": "59413-001",
+      "title": "Health Infrastructure Enhancement, Lifesaving Medical Advancements, and Logistics (HILAL) Project",
+      "url": "https://www.adb.org/projects/59413-001/main",
+      "country": "Türkiye",
+      "sector": "Health",
+      "status": "Proposed",
+      "approval_year": "2027",
+      "scraped_at": "2025-12-14T12:14:40.920857"
+    },
+    {
+      "project_id": "52325-001",
+      "title": "Secondary Cities Environment Improvement Project - Lam Dong Province",
+      "url": "https://www.adb.org/projects/52325-001/main",
+      "country": "Viet Nam",
+      "sector": "Water and other urban infrastructure and services",
+      "status": "Proposed",
+      "approval_year": "2027",
+      "scraped_at": "2025-12-14T12:14:40.920952"
+    },
+    {
+      "project_id": "59303-001",
+      "title": "Reforms to Accelerate Investment and Scale Employment - FMRF (Subprogram 1)",
+      "url": "https://www.adb.org/projects/59303-001/main",
+      "country": "Nepal",
+      "sector": "Industry and trade",
+      "status": "Proposed",
+      "approval_year": "2027",
+      "scraped_at": "2025-12-14T12:14:40.921041"
+    },
+    {
+      "project_id": "59501-001",
+      "title": "Improving Capacity for Sustainable Rail Infrastructure Development",
+      "url": "https://www.adb.org/projects/59501-001/main",
+      "country": "Bangladesh",
+      "sector": "Transport",
+      "status": "Proposed",
+      "approval_year": "2027",
+      "scraped_at": "2025-12-14T12:14:40.921129"
+    },
+    {
+      "project_id": "51059-004",
+      "title": "Second Improving Governance and Public Sector Efficiency Program (Subprogram 1)",
+      "url": "https://www.adb.org/projects/51059-004/main",
+      "country": "Azerbaijan",
+      "sector": "Public sector management",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:40.921217"
+    },
+    {
+      "project_id": "58463-001",
+      "title": "National Total Electrification Support Program",
+      "url": "https://www.adb.org/projects/58463-001/main",
+      "country": "Philippines",
+      "sector": "Energy",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:47.899983"
+    },
+    {
+      "project_id": "55015-001",
+      "title": "Preparing the Babeldaob Island Urban Resilience Project (formerly Strengthening Urban Planning and Management)",
+      "url": "https://www.adb.org/projects/55015-001/main",
+      "country": "Palau",
+      "sector": null,
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:47.900091"
+    },
+    {
+      "project_id": "53075-001",
+      "title": "Water Security, Alternative Energy, and Vital Ecosystems Restoration Project",
+      "url": "https://www.adb.org/projects/53075-001/main",
+      "country": "Cook Islands",
+      "sector": "Water and other urban infrastructure and services",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:47.900182"
+    },
+    {
+      "project_id": "53407-001",
+      "title": "Enhancing Skills for Productive Employment Project",
+      "url": "https://www.adb.org/projects/53407-001/main",
+      "country": "Nepal",
+      "sector": "Education",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:47.900273"
+    },
+    {
+      "project_id": "59312-001",
+      "title": "Puducherry Integrated Urban Livability Improvement Project",
+      "url": "https://www.adb.org/projects/59312-001/main",
+      "country": "India",
+      "sector": "Water and other urban infrastructure and services",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:47.900359"
+    },
+    {
+      "project_id": "56298-001",
+      "title": "Infrastructure Development for Green and Resilient New Satellite City in the Khushig Valley Area",
+      "url": "https://www.adb.org/projects/56298-001/main",
+      "country": "Mongolia",
+      "sector": "Water and other urban infrastructure and services",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:47.900443"
+    },
+    {
+      "project_id": "58473-001",
+      "title": "Green Public Transport in Khyber Pakhtunkhwa Cities",
+      "url": "https://www.adb.org/projects/58473-001/main",
+      "country": "Pakistan",
+      "sector": "Transport",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:47.900529"
+    },
+    {
+      "project_id": "58086-001",
+      "title": "Northern China Agriculture and Food Ecosystem Low-Carbon and Climate-Resilient Development Project",
+      "url": "https://www.adb.org/projects/58086-001/main",
+      "country": "China, People's Republic of",
+      "sector": "Finance",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:47.900614"
+    },
+    {
+      "project_id": "59160-001",
+      "title": "Karnataka Rural Roads Improvement Project",
+      "url": "https://www.adb.org/projects/59160-001/main",
+      "country": "India",
+      "sector": "Transport",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:47.900699"
+    },
+    {
+      "project_id": "52246-001",
+      "title": "Climate-Resilient Sustainable Water Supply and Sanitation Project",
+      "url": "https://www.adb.org/projects/52246-001/main",
+      "country": "Sri Lanka",
+      "sector": "Water and other urban infrastructure and services",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:47.900784"
+    },
+    {
+      "project_id": "58060-001",
+      "title": "Resilient and Sustainable Urban Improvement Project",
+      "url": "https://www.adb.org/projects/58060-001/main",
+      "country": "Lao People's Democratic Republic",
+      "sector": "Water and other urban infrastructure and services",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:47.900869"
+    },
+    {
+      "project_id": "58276-001",
+      "title": "Bunakha Green Power Development Project (formerly Third Green Power Development Project)",
+      "url": "https://www.adb.org/projects/58276-001/main",
+      "country": "Bhutan",
+      "sector": "Energy",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:47.900953"
+    },
+    {
+      "project_id": "58028-001",
+      "title": "Resilient Amu Darya River Basin Sector Development Program",
+      "url": "https://www.adb.org/projects/58028-001/main",
+      "country": "Uzbekistan",
+      "sector": "Agriculture, natural resources and rural development",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:47.901038"
+    },
+    {
+      "project_id": "59156-001",
+      "title": "South Asia Subregional Economic Cooperation  Highway Improvement and Ecosystem Restoration Project",
+      "url": "https://www.adb.org/projects/59156-001/main",
+      "country": "Nepal",
+      "sector": "Transport",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:47.901121"
+    },
+    {
+      "project_id": "59441-001",
+      "title": "Tbilisi Bypass Project (Lots 4 and 5)",
+      "url": "https://www.adb.org/projects/59441-001/main",
+      "country": "Georgia",
+      "sector": "Transport",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:47.901207"
+    },
+    {
+      "project_id": "53273-001",
+      "title": "Promoting Sustainability and Productivity for Enterprise Resilience and Upscaling in the Philippines (ProSPER) Project (formerly Mindanao Agro-Enterprise Development Project)",
+      "url": "https://www.adb.org/projects/53273-001/main",
+      "country": "Philippines",
+      "sector": "Agriculture, natural resources and rural development",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:47.901291"
+    },
+    {
+      "project_id": "59205-001",
+      "title": "Conservation & Afforestation for Resilient Ecosystems (CARE)",
+      "url": "https://www.adb.org/projects/59205-001/main",
+      "country": "Kyrgyz Republic",
+      "sector": "Agriculture, natural resources and rural development",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:47.901376"
+    },
+    {
+      "project_id": "58537-001",
+      "title": "Regional Water Security Project",
+      "url": "https://www.adb.org/projects/58537-001/main",
+      "country": "Indonesia",
+      "sector": "Water and other urban infrastructure and services",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:47.901461"
+    },
+    {
+      "project_id": "59248-001",
+      "title": "Coal to Solar Transition in Ger Districts of Ulaanbaatar City",
+      "url": "https://www.adb.org/projects/59248-001/main",
+      "country": "Mongolia",
+      "sector": "Energy",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:47.901545"
+    },
+    {
+      "project_id": "58416-001",
+      "title": "Hybrid Power Energy Enhancement Project",
+      "url": "https://www.adb.org/projects/58416-001/main",
+      "country": "Tajikistan",
+      "sector": "Energy",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:47.901628"
+    },
+    {
+      "project_id": "59296-001",
+      "title": "Building a Strong and Inclusive Financial Ecosystem for Micro, Small and Medium Enterprises Subprogram 1",
+      "url": "https://www.adb.org/projects/59296-001/main",
+      "country": "Sri Lanka",
+      "sector": "Finance",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:50.713193"
+    },
+    {
+      "project_id": "58474-001",
+      "title": "Empowering Mobility through Electric Urban Solutions (EMERGE)",
+      "url": "https://www.adb.org/projects/58474-001/main",
+      "country": "Armenia",
+      "sector": "Transport",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:50.713298"
+    },
+    {
+      "project_id": "59070-001",
+      "title": "Greater Mekong Subregion Smart and Sustainable Tourism Infrastructure for Inclusive Growth Project",
+      "url": "https://www.adb.org/projects/59070-001/main",
+      "country": "Lao People's Democratic Republic",
+      "sector": "Water and other urban infrastructure and services",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:50.713391"
+    },
+    {
+      "project_id": "59251-001",
+      "title": "Municipal Hospital Development Project",
+      "url": "https://www.adb.org/projects/59251-001/main",
+      "country": "Timor-Leste",
+      "sector": "Health",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:50.713479"
+    },
+    {
+      "project_id": "56172-002",
+      "title": "South Asia Subregional Economic Cooperation Dhirasram Inland Container Depot Project",
+      "url": "https://www.adb.org/projects/56172-002/main",
+      "country": "Bangladesh",
+      "sector": "Transport",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:50.713565"
+    },
+    {
+      "project_id": "59206-001",
+      "title": "Fresh Food Marketing System Project",
+      "url": "https://www.adb.org/projects/59206-001/main",
+      "country": "Papua New Guinea",
+      "sector": "Agriculture, natural resources and rural development",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:50.713650"
+    },
+    {
+      "project_id": "59331-001",
+      "title": "Skills Development System Transformation Program",
+      "url": "https://www.adb.org/projects/59331-001/main",
+      "country": "Kyrgyz Republic",
+      "sector": "Education",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:50.713734"
+    },
+    {
+      "project_id": "50240-003",
+      "title": "Tina River Hydropower Project - Additional Financing",
+      "url": "https://www.adb.org/projects/50240-003/main",
+      "country": "Solomon Islands",
+      "sector": "Energy",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:50.713822"
+    },
+    {
+      "project_id": "59265-002",
+      "title": "Gariuai Mini-Hydropower Rehabilitation Project",
+      "url": "https://www.adb.org/projects/59265-002/main",
+      "country": "Timor-Leste",
+      "sector": "Energy",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:50.713909"
+    },
+    {
+      "project_id": "59345-001",
+      "title": "Skills for Future Economy Sector Development Program (additional financing)",
+      "url": "https://www.adb.org/projects/59345-001/main",
+      "country": "Cambodia",
+      "sector": "Education",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:50.713995"
+    },
+    {
+      "project_id": "59337-001",
+      "title": "Promoting Resilience and Opportunity for Inclusive Recovery Sector Development Program",
+      "url": "https://www.adb.org/projects/59337-001/main",
+      "country": "Sri Lanka",
+      "sector": "Public sector management",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:50.714081"
+    },
+    {
+      "project_id": "59194-001",
+      "title": "Trade, Investment, and Industry Development Program- Subprogram 1",
+      "url": "https://www.adb.org/projects/59194-001/main",
+      "country": "Sri Lanka",
+      "sector": "Industry and trade",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:50.714165"
+    },
+    {
+      "project_id": "59329-001",
+      "title": "Azerbaijan Railways Electrification, Signaling and Telecommunication Project (Bilajari-Yalama)",
+      "url": "https://www.adb.org/projects/59329-001/main",
+      "country": "Azerbaijan",
+      "sector": "Transport",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:50.714251"
+    },
+    {
+      "project_id": "58464-001",
+      "title": "Accelerated Implementation of Government Energy Efficient Projects",
+      "url": "https://www.adb.org/projects/58464-001/main",
+      "country": "Philippines",
+      "sector": "Energy",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:50.714335"
+    },
+    {
+      "project_id": "58460-001",
+      "title": "Transforming Higher Education and Research for Industry Value Enhancement (THRIVE) Program",
+      "url": "https://www.adb.org/projects/58460-001/main",
+      "country": "India",
+      "sector": "Education",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:50.714419"
+    },
+    {
+      "project_id": "59011-001",
+      "title": "Social Insurance System Modernization and Digitalization Project",
+      "url": "https://www.adb.org/projects/59011-001/main",
+      "country": "Tajikistan",
+      "sector": "Public sector management",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:50.714504"
+    },
+    {
+      "project_id": "59217-001",
+      "title": "Inclusive and Resilient Urban Development Project",
+      "url": "https://www.adb.org/projects/59217-001/main",
+      "country": "Bhutan",
+      "sector": "Water and other urban infrastructure and services",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:50.714588"
+    },
+    {
+      "project_id": "58358-001",
+      "title": "Seismic Safety Improvement Program 3",
+      "url": "https://www.adb.org/projects/58358-001/main",
+      "country": "Armenia",
+      "sector": "Water and other urban infrastructure and services",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:50.714673"
+    },
+    {
+      "project_id": "59125-001",
+      "title": "Strengthening Karnataka Public Schools Program",
+      "url": "https://www.adb.org/projects/59125-001/main",
+      "country": "India",
+      "sector": "Education",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:50.714759"
+    },
+    {
+      "project_id": "51131-001",
+      "title": "Naulong Integrated Water Resources Development Project",
+      "url": "https://www.adb.org/projects/51131-001/main",
+      "country": "Pakistan",
+      "sector": "Agriculture, natural resources and rural development",
+      "status": "Proposed",
+      "approval_year": "2026",
+      "scraped_at": "2025-12-14T12:14:50.714843"
+    }
+  ]
+}

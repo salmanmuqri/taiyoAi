@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../Downloads/pageInd_files"
+		},
+		{
+			"path": "../../../../Downloads/pageMain_files"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "taiyoAi"
+	}
+}
