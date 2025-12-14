@@ -1,0 +1,16 @@
+# Web Scraping Dependencies
+undetected-chromedriver==3.5.5
+beautifulsoup4==4.12.3
+lxml==5.1.0
+selenium==4.16.0
+
+# Data Handling
+pandas==2.2.0
+
+# Utilities
+python-dateutil==2.8.2
+pytz==2024.1
+
+# CLI and Logging
+colorama==0.4.6
+tqdm==4.66.1
